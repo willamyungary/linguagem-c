@@ -19,11 +19,11 @@ int main() {
 
     // Verificando a situação do aluno com base na média
     if (media >= 7.0) {
-        printf("Aprovado!\n");
+        printf("Aluno Aprovado!\n");
     } else if (media >= 5.0) {
-        printf("Recuperação!\n");
+        printf("Aluno em Recuperação!\n");
     } else {
-        printf("Reprovado!\n");
+        printf("Aluno Reprovado!\n");
     }
 
 return 0;
