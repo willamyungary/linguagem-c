@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 int main() {
-	int num1, num2, num3, soma; // declarando as variaveis
+	// declarando as variaveis para armazenar os números inseridos pelo usuário e a soma
+	int num1, num2, num3, soma;
 
-	// lendo dois numeros inseridos pelo usuário
+	// lendo três números inseridos pelo usuário
 	printf("Digite o primeiro número: ");
 	scanf("%d", &num1);
 
