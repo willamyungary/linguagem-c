@@ -19,7 +19,7 @@ int main() {
     media = (nota1 + nota2 + nota3 + nota4) / 4;
 
     // Exibindo o resultado da média
-    printf("A média das notas é: %f\n", media);
+    printf("A média das notas é: %.2f\n", media);
 
     return 0;
 }
