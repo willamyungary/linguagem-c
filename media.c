@@ -2,7 +2,7 @@
 
 int main() {
 
-    // Declarando de variáveis
+    // Declaração de variáveis
     float nota1, nota2, nota3, nota4, media;
 
     // Lendo as notas inseridas pelo usuário
